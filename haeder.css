@@ -31,6 +31,7 @@
   }
   .lista-menu__titulo {
     color: var(--laranja);
+    font-weight: 700;
   }
   .lista-menu__item {
     padding: 1em;
